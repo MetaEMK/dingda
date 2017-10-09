@@ -20,6 +20,7 @@ public class VektorTest {
     Vektor v1 =new Vektor(1,2,3);
     Vektor v2 = new Vektor(2,3,5); 
     public VektorTest() {
+        System.out.println("Hallo, is da jemand nee ok");
     }
     
     @BeforeClass
