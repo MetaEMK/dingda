@@ -21,6 +21,7 @@ public class VektorTest {
     Vektor v2 = new Vektor(2,3,5); 
     public VektorTest() {
         System.out.println("Hallo, is da jemand nee ok");
+        System.out.println("ok schüüüs");
     }
     
     @BeforeClass
